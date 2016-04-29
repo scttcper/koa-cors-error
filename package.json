@@ -1,18 +1,24 @@
 {
-  "name": "koa-cors-error",
-  "version": "0.0.2",
-  "description": "Allow 4xx or 5xx statuses for cross-domain requests.",
+  "name": "koa2-cors-error",
+  "version": "1.0.0",
+  "description": "Allow 4xx or 5xx statuses for koa2 cross-domain requests.",
   "main": "index.js",
-  "author": {
-    "name": "Pavel Kornilov",
-    "email": "lusever@lusever.com",
-    "url": "http://lusever.com"
-  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:lusever/koa-cors-error.git"
+    "url": "git+https://github.com/scttcper/koa-cors-error.git"
   },
+  "keywords": [
+    "koa",
+    "cors",
+    "error",
+    "koa2"
+  ],
+  "author": "lusever",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scttcper/koa-cors-error/issues"
+  },
+  "homepage": "https://github.com/scttcper/koa-cors-error#readme",
   "dependencies": {
     "statuses": "^1.2.1"
   }
