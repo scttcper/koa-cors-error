@@ -1,3 +1,4 @@
+### Deprecated: I don't think this is necessary anymore.
 # koa-cors-error
 
 Module has fixed the [bug](https://github.com/evert0n/koa-cors/issues/17) when the system didn't send the 4xx or 5xx statuses through cross-domain requests.
